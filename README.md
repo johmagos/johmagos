@@ -3,8 +3,9 @@
                         Tech independence, IOT.
 - 🌱 I’m currently learning: <br>
   => JAVA <br>
+  => Data Visualization with R <br>
   => brushing up on Web Fundamentals (HTML, CSS, JS) <br>
-  => class work for my BSCS. <br>
+  => Sundry items for my BSCS. <br>
 - 💞️ I’m looking to collaborate on: <br>
   => Project MVPs <br>
   => Mapping projects <br>
