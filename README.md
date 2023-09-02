@@ -1,11 +1,18 @@
 - 👋 Hi, I’m @johmagos
-- 👀 I’m interested in; Web Development, Maps, Spatial Information, Linux, Good UI design, History, Clean Energy, Hiking.
+- 👀 I’m interested in: Web Development, Maps, Spatial Information, Linux, Good UI design, History, Clean Energy, Hiking.
                         Tech independence, IOT.
-- 🌱 I’m currently; learning JAVA and brushing up on Web Fundamentals (HTML, CSS, JS) and class work for my BSCS.
-- 💞️ I’m looking to collaborate on; Project MVPs, Mapping projects, Design Libraries. Making a game sounds fun.
-- 📫 How to reach me:
-  x.com/johmagos
-  johmagos.io
+- 🌱 I’m currently learning: <br>
+  => JAVA <br>
+  => brushing up on Web Fundamentals (HTML, CSS, JS) <br>
+  => class work for my BSCS. <br>
+- 💞️ I’m looking to collaborate on: <br>
+  => Project MVPs <br>
+  => Mapping projects <br>
+  => Design Libraries <br>
+  => Making a game sounds fun! <br>
+- 📫 How to reach me: <br>
+  => x.com/johmagos <br>
+  => johmagos.io
 
 <!---
 johmagos/johmagos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
